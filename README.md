@@ -15,3 +15,7 @@ How to run :
 4. Upload any image from your device
 3. Click on "Calculate Resolution" button
 4. Resolution of the image will be displayed
+
+![alt text](https://github.com/gitNavV/Resolution-Calculator/blob/master/Screenshot%20(1).png)
+![alt text](https://github.com/gitNavV/Resolution-Calculator/blob/master/Screenshot%20(2).png)
+![alt text](https://github.com/gitNavV/Resolution-Calculator/blob/master/Screenshot%20(3).png)
